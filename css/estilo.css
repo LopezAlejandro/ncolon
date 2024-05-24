@@ -1,0 +1,61 @@
+@import url("./Alegreya Sans.css");
+:root {
+  --bs-navbar-brand-font-size: 2em;
+}
+
+* {
+  font-family: "Alegreya Sans";
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f5f5f5;
+  /* max-width: 95%; */
+  margin: 0 auto;
+  padding: 0 0 0;
+}
+
+header {
+  padding-top: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #dcbf7c;
+}
+
+
+.display-3 {
+    margin-left: .6em;
+}
+
+.navbar-brand {
+  font-size: 1em;
+}
+
+.navbar {
+  --bs-navbar-padding-y: 0;
+}
+
+main {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: brown;
+}
+
+footer {
+  height: auto;
+  width: 100%;
+  padding-top: 20px;
+  background-color: #dcbf7c;
+  color: #a071a8;
+}
+
+
