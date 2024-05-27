@@ -8,8 +8,8 @@ include "header.php";
 <div class="spacer d-none d-sm-none d-md-block"></div>
 
 <div id="lightgallery" class="container-fluid">
-
 	<div class="row">
+
 		<div class="col-md-2"></div>
 
 		<div class="col">
@@ -64,8 +64,6 @@ include "header.php";
 		</div>
 		<div class='w-100 d-md-none'></div>
 
-
-
 		<div class="col">
 			<a class="hvr-grow" data-download-url="false" data-responsive="img/375-28.jpg 375, img/480-28.jpg 480, img/28.jpg 800" data-src="img/1600-28.jpg" href=""><img class="img-fluid " src="img/thumb-28.jpg"></a>
 		</div>
@@ -95,20 +93,15 @@ include "header.php";
 		<div class='w-100 d-md-none'></div>
 
 		<div class="col-md-5"></div>
-
-
-
-
-
 	</div>
 
 	<div class="row d-block d-sm-block d-md-none"></div>
 </div>
 
-<div class="spacer d-none d-sm-none d-md-block"></div>
-<div class="spacer d-none d-sm-none d-md-block"></div>
+<!-- <div class="spacer d-none d-sm-none d-md-block"></div> -->
+<!-- <div class="spacer d-none d-sm-none d-md-block"></div> -->
 
-<div class="col-md-3 align-self-end d-none d-sm-none d-md-block"></div>
+<!-- <div class="col-md-3 align-self-end d-none d-sm-none d-md-block"></div> -->
 
 <div class="spacer d-none d-sm-none d-md-block"></div>
 <div class="spacer d-none d-sm-none d-md-block"></div>
