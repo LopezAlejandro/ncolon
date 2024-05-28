@@ -369,30 +369,30 @@ ul#html5-videos {
 *  Grilla de Contenido
 ***************************/
 
-.contenido {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  gap: 1em 1em;
-  grid-auto-flow: row;
-  grid-template-areas:
-    "im-der im-central im-central im-central im-central im-central im-izq"
-    "im-der im-central im-central im-central im-central im-central im-izq";
-  margin-left: .5em;
-  margin-right: .5em;
-}
+  .contenido {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 1em 1em;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "im-der im-central im-central im-central im-central im-central im-izq"
+      "im-der im-central im-central im-central im-central im-central im-izq";
+    margin-left: .5em;
+    margin-right: .5em;
+  }
 
-.im-central {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  gap: 1em 1em;
-  grid-auto-flow: row;
-  grid-template-areas:
-    "im1 im2 im3 im4 im5"
-    "im6 im7 im8 im9 im10";
-  grid-area: im-central;
-}
+  .im-central {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 1em 1em;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "im1 im2 im3 im4 im5"
+      "im6 im7 im8 im9 im10";
+    grid-area: im-central;
+  }
 
 .im-der {
   grid-area: im-der;
@@ -442,11 +442,17 @@ ul#html5-videos {
   grid-area: im10;
 }
 
+/*desktops - higher resolution*/
+/*@media (min-width: 1281px)*/
 
+/*laptops, desktops*/
+/*@media (min-width: 1025px) and (max-width: 1280px)  */
 
-
-
-
-
-
-@media all and (max-width: 480px) {}
+/*tablets, ipads (portrait)*/
+/*@media (min-width: 768px) and (max-width: 1024px)*/
+/*tablets, ipads (landscape)*/
+/*@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape)*/
+/*low resolution tablets, mobiles (landscape)*/
+/*@media (min-width: 481px) and (max-width: 767px)*/
+/*smartphones mobiles (portrait)*/
+/*@media (min-width: 320px) and (max-width: 480px)*/
