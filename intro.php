@@ -25,7 +25,7 @@ include "header1.php";
 					Además, el documento explica la disposición de los espacios, la organización interna del teatro, incluyendo la sala principal, el foyer, las escaleras, y las áreas técnicas y de servicio, enfatizando su importancia para el confort y la experiencia del público. <br>
 					La elección de materiales nobles como el mármol y las maderas finas, que contribuirían a la elegancia y durabilidad del edificio. Detalla los elementos decorativos, desde las molduras y frisos hasta los chandeliers y esculturas, que aportarían al teatro su carácter lujoso y distintivo y las innovaciones técnicas, los sistemas de tramoya y maquinaria escénica, diseñados para facilitar la producción de espectáculos complejos y de gran escala. <br>
 					La publicación incluye 39 láminas que contienen los planos del teatro, con ilustraciones, plantas, cortes y vistas que permiten una comprensión visual completa del proyecto arquitectónico.<br>
-					Esta obra se encuentra digitalizada y es parte de la <strong>"Colección de Libros Antiguos y Valiosos"</strong> de la biblioteca y se presenta en una exposición virtual que destaca una selección de dichas láminas.
+					Esta obra se encuentra digitalizada y es parte de la <strong>"Colección de Libros Antiguos y Valiosos"</strong> de la biblioteca. Presentamos esta exposición virtual llamada <em>"El Nuevo Teatro Colón: Una Visión a través de los Planos de Víctor Meano"</em> basada en una selección de láminas que les permitirá explorar el Teatro Colón desde una perspectiva única, revelando los secretos arquitectónicos y estructurales a través de sus detallados planos y esquemas. 
 				</p>
 			</div>
 
